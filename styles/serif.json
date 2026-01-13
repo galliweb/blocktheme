@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schemas.wp.org/wp/6.9/theme.json",
+  "version": 3,
+  "title": "Serif",
+  "styles": {
+    "typography": {
+      "fontFamily": "Georgia, 'Times New Roman', Times, serif"
+    },
+    "elements": {
+      "heading": {
+        "typography": {
+          "fontFamily": "Georgia, 'Times New Roman', Times, serif"
+        }
+      },
+      "link": {
+        "typography": {
+          "fontFamily": "Georgia, 'Times New Roman', Times, serif"
+        }
+      }
+    }
+  }
+}

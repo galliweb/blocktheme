@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schemas.wp.org/wp/6.9/theme.json",
+  "version": 3,
+  "title": "Modern",
+  "styles": {
+    "typography": {
+      "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif"
+    },
+    "elements": {
+      "heading": {
+        "typography": {
+          "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif"
+        }
+      },
+      "link": {
+        "typography": {
+          "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "https://schemas.wp.org/wp/6.9/theme.json",
+  "version": 3,
+  "title": "Blue Theme",
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "color": "#0066cc",
+          "name": "Primary Blue",
+          "slug": "primary"
+        },
+        {
+          "color": "#003366",
+          "name": "Dark Blue",
+          "slug": "dark"
+        },
+        {
+          "color": "#ffffff",
+          "name": "White",
+          "slug": "white"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#ffffff",
+      "text": "#003366"
+    }
+  }
+}

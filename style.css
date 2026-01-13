@@ -1,0 +1,21 @@
+/*
+Theme Name: Vorlage1
+Theme URI: 
+Author: 
+Author URI: 
+Description: 
+Requires at least: 6.9
+Tested up to: 6.9
+Requires PHP: 7.2
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: vorlage1
+Tags: 
+*/
+
+/* functions.php oder custom CSS */
+.wp-block-navigation__responsive-container.is-menu-open {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
